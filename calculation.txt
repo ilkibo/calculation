@@ -1,0 +1,12 @@
+{
+  "action": "buy",
+  "symbol": "BTC-USD",
+  "entry_type": "limit_pullback",
+  "entry": 84250,
+  "stop": 83680,
+  "target": 85120,
+  "quantity": 0.012,
+  "confidence_score": 0.68,
+  "estimated_fee": 1.94,
+  "rationale": "Trend bullish, EMA20>EMA100, RSI turning up from neutral, pullback near EMA20."
+}
